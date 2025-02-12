@@ -32,4 +32,5 @@ a1 = 1; b1 = 1; c1 = 0;
 a1 = 1; b1 = 1; c1 = 1;
 #10;
 $stop;
+end
 endmodule
