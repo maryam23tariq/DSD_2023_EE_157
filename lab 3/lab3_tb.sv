@@ -6,7 +6,7 @@ logic p;
 logic q;
 
 localparam period = 10;
-lab2 UUT(
+lab3 UUT(
 .a(l),
 .b(m),
 .c(n),
